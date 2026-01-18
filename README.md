@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" alt="Spotify Logo" width="400"/>
+</div>
+
 # 🎵 Spotify Data Analysis Project
 
 ## Overview
@@ -122,6 +126,14 @@ Contributions are welcome! Feel free to:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## 📝 Future Enhancements
+
+- [ ] Add data visualization using Python/R
+- [ ] Implement machine learning models for popularity prediction
+- [ ] Create dashboard using Tableau/Power BI
+- [ ] Add temporal analysis for trend identification
+- [ ] Expand analysis to include playlist data
 
 ## 📧 Contact
 
