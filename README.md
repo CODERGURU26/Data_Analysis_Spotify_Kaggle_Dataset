@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" alt="Spotify Logo" width="400"/>
+  <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" alt="Spotify Logo" width="200"/>
 </div>
 
 # 🎵 Spotify Data Analysis Project
