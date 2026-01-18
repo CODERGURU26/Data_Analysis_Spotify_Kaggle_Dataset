@@ -123,14 +123,6 @@ Contributions are welcome! Feel free to:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 Future Enhancements
-
-- [ ] Add data visualization using Python/R
-- [ ] Implement machine learning models for popularity prediction
-- [ ] Create dashboard using Tableau/Power BI
-- [ ] Add temporal analysis for trend identification
-- [ ] Expand analysis to include playlist data
-
 ## 📧 Contact
 
 For questions or feedback, please open an issue in the repository.
