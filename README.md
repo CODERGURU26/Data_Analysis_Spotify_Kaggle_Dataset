@@ -136,7 +136,15 @@ Contributions are welcome! Feel free to:
 - Project Link: [Spotify Content Analysis](https://github.com/CODERGURU26/Data_Analysis_Spotify_Kaggle_Dataset.git)
 
 ---
+## 📞 Contact
 
-## 📧 Contact
+For questions, suggestions, or collaboration opportunities:
+- 📧 Email: guruuu2468@gmail.com
+- 💬 Open an issue in this repository
 
-For questions or feedback, please open an issue in the repository.
+---
+
+⭐ **If you found this project helpful, please consider giving it a star!** ⭐
+
+---
+
