@@ -133,7 +133,7 @@ Contributions are welcome! Feel free to:
 
 - GitHub: [CODERGURU26](https://github.com/CODERGURU26)
 - LinkedIn: [Gururaj Krishna Sharma](https://www.linkedin.com/in/gururaj-krishna-sharma-bb0a70322/)
-- Project Link: [Netflix Content Analysis](https://github.com/CODERGURU26/Data_Analysis_Netflix_Kaggle_Dataset.git)
+- Project Link: [Spotify Content Analysis](https://github.com/CODERGURU26/Data_Analysis_Spotify_Kaggle_Dataset.git)
 
 ---
 
