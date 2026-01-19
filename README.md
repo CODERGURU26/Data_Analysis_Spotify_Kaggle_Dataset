@@ -130,11 +130,3 @@ Contributions are welcome! Feel free to:
 ## 📧 Contact
 
 For questions or feedback, please open an issue in the repository.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-**Note:** This project is for educational and analytical purposes. Ensure you have proper authorization to use any Spotify data in compliance with their Terms of Service.
