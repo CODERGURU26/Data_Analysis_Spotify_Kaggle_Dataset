@@ -1,8 +1,12 @@
+# 🎵 Spotify Data Analysis Project
+
 <div align="center">
   <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" alt="Spotify Logo" width="200"/>
 </div>
 
-# 🎵 Spotify Data Analysis Project
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+![Spotify](https://img.shields.io/badge/Platform-Spotify-green)
 
 ## Overview
 This project performs comprehensive data analysis on Spotify track data using SQL. It explores various metrics including streaming performance, audio features, and engagement statistics to derive meaningful insights about music trends and track characteristics.
