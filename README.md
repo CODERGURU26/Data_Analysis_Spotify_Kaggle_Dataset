@@ -127,6 +127,16 @@ Contributions are welcome! Feel free to:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 👨‍💻 Author
+
+**Your Name**
+
+- GitHub: [CODERGURU26](https://github.com/CODERGURU26)
+- LinkedIn: [Gururaj Krishna Sharma](https://www.linkedin.com/in/gururaj-krishna-sharma-bb0a70322/)
+- Project Link: [Netflix Content Analysis](https://github.com/CODERGURU26/Data_Analysis_Netflix_Kaggle_Dataset.git)
+
+---
+
 ## 📧 Contact
 
 For questions or feedback, please open an issue in the repository.
